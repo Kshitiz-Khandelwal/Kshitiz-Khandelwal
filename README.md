@@ -187,20 +187,6 @@ System architecture for ISRO's ground station MPLS fault detection: Prophet time
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitiz-Khandelwal&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
-
-<br/><br/>
-
-![Kshitiz's GitHub Activity](https://ghchart.rshah.org/6366f1/Kshitiz-Khandelwal)
-
-</div>
-
----
-
 <div align="center">
 
 *"Ship it. Learn from it. Build the next one better."*
