@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Kshitiz%20Khandelwal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20Systems%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" />
+# Kshitiz Khandelwal
 
-<br/>
+### CS Student · AI & Systems Engineer · Bangalore, India
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=640&lines=Building+AI+systems+%26+real-world+products;Rust+%7C+Python+%7C+TypeScript+%7C+Java;Local-first+AI+%7C+Federated+Learning+%7C+IoT;BMSIT%26M+%7C+CGPA+9.43+%7C+Bangalore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=640&lines=Building+AI+systems+%26+real-world+products;Rust+%7C+Python+%7C+TypeScript+%7C+Java;Local-first+AI+%7C+Federated+Learning+%7C+IoT;BMSIT%26M+%7C+CGPA+9.43+%7C+Bangalore)](https://github.com/Kshitiz-Khandelwal)
 
 <br/>
 
@@ -13,7 +13,7 @@
 </a>
 &nbsp;
 <a href="mailto:kshitiz.k.1403@gmail.com">
-  <img src="https://img.shields.io/badge/kshitiz.k.1403@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Kshitiz-Khandelwal&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
@@ -63,7 +63,7 @@ I'm a **Computer Science & Business Systems student at BMSIT&M, Bangalore** (CGP
 **AI / ML**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02ADEF?style=flat-square&logo=lightgbm&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02ADEF?style=flat-square&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AC9?style=flat-square&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
@@ -123,7 +123,7 @@ Two-stage cardiac arrhythmia classifier on the PhysioNet/CinC 2020 dataset: Effi
 ### 🌿 [Krishi360](https://krishi360-scr-project-dy7b.vercel.app/)
 **AI Agriculture Platform — 3rd Place, College Ideathon**
 
-REST API-backed platform giving farmers crop recommendations based on soil data, rainfall, market trends and disease risk. Built the Crop Suitability Index (CSI) backend logic.
+REST API-backed platform giving farmers crop recommendations based on soil data, rainfall, market trends and disease risk. Implemented the Crop Suitability Index (CSI) backend logic.
 
 `Python` `Machine Learning` `REST API`
 
@@ -133,7 +133,7 @@ REST API-backed platform giving farmers crop recommendations based on soil data,
 ### 🔍 TON-IoT Intrusion Detection System
 **211K Records · 4 Classifiers · SHAP Analysis**
 
-End-to-end ML pipeline on the TON_IoT dataset for both binary (benign/attack) and 10-class attack-type detection. Compared Random Forest, LightGBM, XGBoost, and MLP; applied SHAP for feature interpretability.
+End-to-end ML pipeline on the TON_IoT dataset for binary and 10-class attack-type detection. Compared Random Forest, LightGBM, XGBoost, and MLP; applied SHAP for feature interpretability.
 
 `Python` `LightGBM` `XGBoost` `scikit-learn` `SHAP`
 
@@ -180,7 +180,7 @@ System architecture for ISRO's ground station MPLS fault detection: Prophet time
 
 ## 🏆 Achievements
 
-- 🥉 **3rd Place** — College-Level Ideathon (SIH-aligned problem statements), Krishi360 AI Agriculture Platform — BMSIT&M, 2024
+- 🥉 **3rd Place** — College-Level Ideathon (SIH-aligned problem statements), Krishi360 — BMSIT&M, 2024
 - 🚀 **ISRO Build-A-Hackathon 2026** — Submitted solution for PS13 (Predictive NOC Copilot for Secure MPLS Operations)
 - 📜 **Research Internship** — IIIT Tiruchirappalli, AICTE-QIP-PG Certificate Programme on ML & Cyber Physical Systems (Mar–May 2026)
 - 📚 Academic **CGPA: 9.43** — B.E. Computer Science & Business Systems, BMSIT&M
@@ -191,17 +191,11 @@ System architecture for ISRO's ground station MPLS fault detection: Prophet time
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kshitiz-Khandelwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz-Khandelwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshitiz-Khandelwal&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 <br/><br/>
 
-[![Kshitiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kshitiz-Khandelwal&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Kshitiz's GitHub Activity](https://ghchart.rshah.org/6366f1/Kshitiz-Khandelwal)
 
 </div>
 
@@ -209,8 +203,8 @@ System architecture for ISRO's ground station MPLS fault detection: Prophet time
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" />
-
 *"Ship it. Learn from it. Build the next one better."*
+
+**[kshitiz.k.1403@gmail.com](mailto:kshitiz.k.1403@gmail.com) · [LinkedIn](https://linkedin.com/in/kshitiz-khandelwal-94917b32a) · [GitHub](https://github.com/Kshitiz-Khandelwal)**
 
 </div>
