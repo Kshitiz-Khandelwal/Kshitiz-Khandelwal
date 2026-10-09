@@ -2,12 +2,16 @@
 
 # Kshitiz Khandelwal
 
-### CS Student · AI & Systems Engineer · Bangalore, India
+### Backend & Systems Engineer · AI/ML Researcher · Bangalore, India
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=640&lines=Building+AI+systems+%26+real-world+products;Rust+%7C+Python+%7C+TypeScript+%7C+Java;Local-first+AI+%7C+Federated+Learning+%7C+IoT;BMSIT%26M+%7C+CGPA+9.43+%7C+Bangalore)](https://github.com/Kshitiz-Khandelwal)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=640&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot;AI+%26+Systems+Researcher+%7C+SplitFed+%7C+IoMT;High-Throughput+APIs+%7C+Microservices+%7C+Kafka;BMSIT%26M+%7C+CGPA+9.43+%7C+Bangalore)](https://github.com/Kshitiz-Khandelwal)
 
 <br/>
 
+<a href="https://kshitiz-khandelwal.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Portfolio-Trek_Themed_Interactive_Terminal-E25543?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://linkedin.com/in/kshitiz-khandelwal-94917b32a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -18,20 +22,29 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Kshitiz-Khandelwal&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 
+<br/><br/>
+
+🌐 **Interactive Portfolio**: **[kshitiz-khandelwal.vercel.app](https://kshitiz-khandelwal.vercel.app/)** *(Trek-themed dark interactive systems engineer showcase)*
+
 </div>
 
 ---
 
 ## ⚡ About Me
 
-I'm a **Computer Science & Business Systems student at BMSIT&M, Bangalore** (CGPA: 9.43) who builds AI systems, desktop tools, and backend infrastructure. I care about writing software that actually works — private, fast, and production-grade.
+I'm a **Backend & Systems Engineer and AI/ML Researcher** currently pursuing Computer Science & Business Systems at **BMSIT&M, Bangalore** (CGPA: 9.43). My primary engineering focus is **scalable backend microservices**, **high-concurrency distributed systems**, and **privacy-preserving edge AI**.
 
-- 🦀 Building **Atlas Identity OS** — fully offline, privacy-first AI desktop OS assistant in Rust + Tauri v2
-- 🛡️ Architecting **DNS Shield** — wire-speed DNS threat defense engine (100K+ QPS) with sub-1.2ms TreeSHAP attributions & LSTM-XGBoost attack forecasting
-- 🕶️ Developing **LifeGraph** — multimodal egocentric second-brain memory engine on smart glasses (temporal-spatial experience graph)
-- 🦾 Built **SpatialVector-HMI** — chest-worn predictive obstacle collision & directional haptic avoidance engine (Nirmaan 2026 Hackathon)
-- 💼 Backend Developer Intern at **Zarthi** — architecting Spring Boot microservices, REST APIs, JPA persistence, Redis caching & event pipelines
-- 🔬 Completed **Research Internship at IIIT Trichy** under AICTE-QIP-PG on SNN-based Split Federated Learning for IoMT security
+- 💼 **Backend Developer Intern @ Zarthi**:
+  - Engineering core production backend services and REST APIs with **Java 17 & Spring Boot**.
+  - Designing clean layered domain architectures (Controllers, DTOs, Service Interfaces, Spring Data JPA/Hibernate).
+  - Implementing **Redis caching layers**, optimistic locking, declarative `@Transactional` boundaries, and **Apache Kafka** event-driven streaming.
+- 🔬 **Research Intern @ IIIT Tiruchirappalli (AICTE-QIP-PG)**:
+  - Researched privacy-preserving distributed intelligence: *"An SNN-based Split Federated Learning Framework for Privacy Preserving Intrusion Detection in IoMT Networks"* under Dr. R. Jennie Bharathi.
+  - Implemented **Split Federated Learning (SplitFed)** with cut-layer activations, **NoPeek loss** against deep inversion attacks, Gaussian differential privacy, and **8-bit quantized smashed activations** (4× bandwidth reduction with $<1\%$ accuracy drop).
+- 🛡️ **Cybersecurity Systems Architect**:
+  - Built **DNS Shield AI** — wire-speed resolver threat filter (100K+ QPS) with sub-1.2ms **TreeSHAP explainability** and LSTM-XGBoost attack forecasting.
+- 🦀 **Systems & Edge Intelligence**:
+  - Developing **Atlas Identity OS** (Rust + Tauri v2, local-first agentic OS assistant) and **LifeGraph** (multimodal second-brain smart glasses).
 - 📍 Bangalore, India
 
 ---
@@ -181,18 +194,34 @@ Dual-domain Split Federated Learning (SplitFed) framework designed for distribut
 
 ---
 
-## 💼 Experience & Credentials
+## 💼 Work & Research Experience
 
-| Role | Organisation | Period |
-|---|---|---|
-| **Backend Developer Intern** | **Zarthi** | Aug 2026 – Present |
-| **Research Intern** — SNN-based Split Federated Learning for IoMT | [IIIT Tiruchirappalli](https://drive.google.com/file/d/1dyT0s3BKhlt2c8Qz7MZqIhBUK2SkKdxP/view?usp=sharing) (AICTE-QIP-PG) | Mar – May 2026 |
-| **Co-Organizer & Instructor** — IoT & Edge AI Workshop (100+ students) | BMSIT&M · SCJIT · VKIT | May 2026 |
-| **Marketing Team Member** | IIC Council, BMSIT&M | Nov 2024 – Apr 2025 |
+### 🏢 **Backend Developer Intern** — **Zarthi**
+*August 2026 – Present · Bangalore, India*
+- **Microservices & Clean Architecture**: Engineering production backend services utilizing **Java 17 and Spring Boot**, adhering to strict domain-driven layered patterns (Controllers, DTO validation layers, Service Interfaces, and JPA Repositories).
+- **Data Modeling & Persistence**: Designing relational schemas and indexing strategies with **Spring Data JPA & Hibernate**, ensuring transactional consistency with `@Transactional` boundaries.
+- **Performance & Caching**: Integrating **Redis** distributed caching for high-frequency database lookups and session state.
+- **Event-Driven Messaging**: Building async event pub/sub streams using **Apache Kafka** for reliable inter-service notification and decoupling.
+- **API Reliability & Contracts**: Authoring RESTful API endpoints with structured error handlers, OpenAPI/Swagger specifications, and integration testing with Postman and JUnit.
 
-> 💼 **At Zarthi**: Engineering robust backend services and REST APIs with Java & Spring Boot. Designing normalized schemas with Spring Data JPA/Hibernate, implementing Redis caching, establishing transactional service boundaries, and integrating Kafka event streams.
-> 
-> 🔬 **Research**: *"An SNN-based Split Federated Learning Framework for Privacy Preserving Intrusion Detection in IoMT Networks"* — supervised by Dr. R. Jennie Bharathi, BMSIT&M.
+---
+
+### 🔬 **Research Intern (AICTE-QIP-PG)** — **Indian Institute of Information Technology Tiruchirappalli (IIIT Trichy)**
+*March 2026 – May 2026 · Supervised by Dr. R. Jennie Bharathi (BMSIT&M)*  
+*Certificate*: [AICTE-QIP-PG Verification](https://drive.google.com/file/d/1dyT0s3BKhlt2c8Qz7MZqIhBUK2SkKdxP/view?usp=sharing)
+- **Research Topic**: *"An SNN-based Split Federated Learning Framework for Privacy Preserving Intrusion Detection in IoMT Networks"*
+- **Distributed Split Learning**: Designed a hybrid **Split Federated Learning (SplitFed)** pipeline partitioning neural network computations at custom cut layers between medical edge sensors and a central cloud server.
+- **Privacy Defenses**:
+  - Implemented **NoPeek Loss** to minimize distance correlation between raw sensitive health signals and smashed activations, preventing deep representation inversion attacks.
+  - Injected calibrated **Differential Privacy (DP)** Gaussian noise into intermediate activation tensors.
+- **Bandwidth Optimization**: Engineered **8-bit activation quantization**, compressing smashed activations to uint8 to achieve **4× bandwidth savings** with $<1\%$ accuracy degradation.
+- **Non-IID Stabilization**: Integrated **FedProx** proximal regularization ($\mu = 0.01$) to handle skewed Dirichlet label distributions across hospital clusters.
+
+---
+
+### 👥 **Leadership & Community**
+- **Co-Organizer & Instructor — IoT & Edge AI Workshop** *(May 2026)*: Mentored 100+ engineering students across BMSIT&M, SCJIT, and VKIT on embedded firmware and microcontroller programming with Raspberry Pi & ESP32.
+- **Marketing Team Member — IIC Council, BMSIT&M** *(Nov 2024 – Apr 2025)*: Spearheaded outreach and sponsor acquisition for national-level campus hackathons.
 
 ---
 
@@ -210,6 +239,7 @@ Dual-domain Split Federated Learning (SplitFed) framework designed for distribut
 
 *"Ship it. Learn from it. Build the next one better."*
 
+**[🌐 Trek-Themed Interactive Portfolio](https://kshitiz-khandelwal.vercel.app/)**  
 **[kshitiz.k.1403@gmail.com](mailto:kshitiz.k.1403@gmail.com) · [LinkedIn](https://linkedin.com/in/kshitiz-khandelwal-94917b32a) · [GitHub](https://github.com/Kshitiz-Khandelwal)**
 
 </div>
